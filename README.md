@@ -1,4 +1,4 @@
-## Welcome to :gem:Ginihub:gem:
+## Welcome to :gem:Giniub:gem:
 "파이팅 이영진, 멋지다 영진아!"👏👏👏👏
 
 
