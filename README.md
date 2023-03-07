@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to :gem:Ginihub:gem:
+
+ Hi. 프론트엔드 개발을 사랑하는 운동하는 개발자 이영진 입니다.
+
 
 <!--
 **dove209/dove209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
